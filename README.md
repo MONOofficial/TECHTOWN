@@ -1,7 +1,7 @@
 <div align="center"><h1><b>TECHTOWN</b></h1></div> <p><p><p>
 <br>
   
-<div align="center">TechTown uma empresa indealizada por mim, e apoiada pelos meus amigos. Agora estamos nesses projeto como sócios :)</div><br>
+<div align="center">TechTown uma empresa indealizada por mim, e apoiada pelos meus amigos. Agora estamos nesses projeto como sócios/donos :)</div><br>
 <br>
 
 
